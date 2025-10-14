@@ -4,7 +4,15 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org)
 
-A comprehensive AI-powered system for lead generation and company analysis that combines multiple data sources and advanced analytical techniques to provide investment recommendations and competitive intelligence.
+This project is a data-driven lead generation engine designed to analyze and rank companies for B2B sales or investment purposes. It moves beyond traditional, lagging financial indicators by integrating a rich set of alternative data sources to build a forward-looking, holistic company profile.A key innovation of this tool is its multi-faceted scoring system, which synthesizes these diverse metrics into three key strategic factors:
+
+Stability Factor: Uses Principal Component Analysis (PCA) on core financial data to create an objective, data-driven measure of a company's market strength and scale.
+
+Growth Factor: Combines a technographics score (derived from a Zero-Shot NLP model) with brand momentum data (from Google Trends) to signal a company's innovation and future trajectory.
+
+Perception Factor: Utilizes sentiment analysis on real-time news articles to provide a gauge of public opinion and brand health.
+
+These factors are then combined to generate a final "Overall Score," allowing users to perform targeted, industry-specific analysis. The result is a clear and objective list of prioritized leads, empowering teams to focus their efforts on the most promising opportunities.
 
 ## 📊 Dataset
 
@@ -230,3 +238,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 **⭐ If you find this project helpful, please give it a star!**
+
