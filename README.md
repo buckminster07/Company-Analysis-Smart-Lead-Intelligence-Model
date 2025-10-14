@@ -1,4 +1,4 @@
-# 🚀 AI-Powered Lead Generation & Company Analysis System
+# 🚀 Lead Generation & Company Analysis System
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -238,4 +238,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 **⭐ If you find this project helpful, please give it a star!**
+
 
